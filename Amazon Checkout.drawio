@@ -82,17 +82,11 @@
         <mxCell id="RcWlKOSqizUN6S4s6CRh-22" value="Bonus: if one microservice fails, then we need to have a backup option. For example, if we are not able to check out with a credit card (because of credit card processor fail), we need to quickly switch to another processor or highlight (perhaps, even incentivize if critical such as pay with a bank account, get $1 off your next purchase) other options, such as Amazon Pay or paying with a bank account instead should be available and provided via a different microservice.&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="680" width="310" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="RcWlKOSqizUN6S4s6CRh-26" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="312" y="420" width="28.000000000000004" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="RcWlKOSqizUN6S4s6CRh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QO-0AGGRT4_MGbJ6_vkx-9" target="QO-0AGGRT4_MGbJ6_vkx-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RcWlKOSqizUN6S4s6CRh-28" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="312" y="515" width="28.000000000000004" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RcWlKOSqizUN6S4s6CRh-29" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="312" y="615.5" width="28.000000000000004" height="50" as="geometry" />
+          <mxGeometry x="264.4" y="483" width="75.6" height="135" as="geometry" />
         </mxCell>
         <mxCell id="RcWlKOSqizUN6S4s6CRh-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RcWlKOSqizUN6S4s6CRh-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
