@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.6">
+  <diagram name="Page-1" id="AD4A-Nj5w-n0UmdkVWub">
+    <mxGraphModel dx="913" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QO-0AGGRT4_MGbJ6_vkx-2" target="QO-0AGGRT4_MGbJ6_vkx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QO-0AGGRT4_MGbJ6_vkx-2" target="QO-0AGGRT4_MGbJ6_vkx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QO-0AGGRT4_MGbJ6_vkx-2" value="User clicks Add to Cart button" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QO-0AGGRT4_MGbJ6_vkx-4" target="QO-0AGGRT4_MGbJ6_vkx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QO-0AGGRT4_MGbJ6_vkx-4" value="DNS/IP Address (Add to Cart button contains the correct path)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="260" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QO-0AGGRT4_MGbJ6_vkx-5" target="QO-0AGGRT4_MGbJ6_vkx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QO-0AGGRT4_MGbJ6_vkx-5" value="Inventory calculator: quickly calculates how much of a particular product is in stock" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QO-0AGGRT4_MGbJ6_vkx-9" target="QO-0AGGRT4_MGbJ6_vkx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QO-0AGGRT4_MGbJ6_vkx-9" value="Price caluclator: calucaltes the cost of a product with tax for each state + shipping fees&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="500" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QO-0AGGRT4_MGbJ6_vkx-10" value="An item gets added to cart" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.559;exitY=0.974;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QO-0AGGRT4_MGbJ6_vkx-12" target="RcWlKOSqizUN6S4s6CRh-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="710" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="420" y="678" />
+              <mxPoint x="420" y="721" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QO-0AGGRT4_MGbJ6_vkx-12" value="Shipping timeframe calculation: provides shipping options (faster for Prime members, more expensive if desired sooner, etc.)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="601" width="160" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-6" value="Microservices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="479" as="sourcePoint" />
+            <mxPoint x="160" y="539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-11" value="User goes to cart and looks at avaialble shipping/payment options&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="540" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="620" as="sourcePoint" />
+            <mxPoint x="160" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-13" value="User checks out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="681" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-17" value="Microservice to scale" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-18" value="This one to scale because if we don&#39;t have a right inventory, we can&#39;t sell the product and other options downstream become irrelevant. If we have enough inventory, but showing as out of stock = not getting the $. If we have no inventoiry but keep selling = bad user experience, additional $ spent processing refunds, etc.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="357.5" width="255" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RcWlKOSqizUN6S4s6CRh-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="440" as="sourcePoint" />
+            <mxPoint x="550" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcWlKOSqizUN6S4s6CRh-22" value="Bonus: if one microservice fails, then we need to have a backup option. For example, if we are not able to check out with a credit card (because of credit card processor fail), we need to quickly switch to another processor or highlight (perhaps, even incentivize if critical such as pay with a bank account, get $1 off your next purchase) other options, such as Amazon Pay or paying with a bank account instead should be available and provided via a different microservice.&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="680" width="310" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
